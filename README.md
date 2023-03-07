@@ -22,3 +22,6 @@ Find the average the daily atmospheric pressure of all the months.
 Plot the results as a bar chart.
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
+![Daily Minimum Temperature](https://user-images.githubusercontent.com/111449865/223526445-a3c8922f-ae45-4519-8692-8acd5b14433f.png)
+![Average Pressure By Month](https://user-images.githubusercontent.com/111449865/223526544-63e7694a-ea56-491d-bb1a-85fb0b95b084.png)
+![Average Minimum Temperature by Month](https://user-images.githubusercontent.com/111449865/223526591-8bce4087-b835-49f2-b349-5c2116da7d40.png)
